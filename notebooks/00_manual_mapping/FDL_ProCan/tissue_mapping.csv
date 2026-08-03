@@ -1,0 +1,58 @@
+dataset,tissue_type,joint_tissue
+FDL_patient,adipose tissue,adipose_tissue
+FDL_patient,bladder,bladder
+FDL_patient,bone,bone
+FDL_patient,brain,brain_cns
+FDL_patient,breast,breast
+FDL_patient,cholangiocarcinoma,biliary_tract
+FDL_patient,colorectal,large_intestine_colorectal
+FDL_patient,endometrial,endometrium_uterus
+FDL_patient,gallbladder,biliary_tract
+FDL_patient,head and neck,head_and_neck
+FDL_patient,kidney,kidney
+FDL_patient,liver,liver
+FDL_patient,lung,lung
+FDL_patient,lymph node,lymphoid_haematopoietic
+FDL_patient,lymphoma,lymphoid_haematopoietic
+FDL_patient,oesophagus,oesophagus_esophagus
+FDL_patient,other,other
+FDL_patient,ovary,ovary
+FDL_patient,pancreas,pancreas
+FDL_patient,prostate,prostate
+FDL_patient,skin,skin
+FDL_patient,small intestine,small_intestine
+FDL_patient,smooth muscle,soft_tissue_smooth_muscle
+FDL_patient,soft tissue nos,soft_tissue_smooth_muscle
+FDL_patient,stomach,stomach
+FDL_patient,stomach/oesophagus,stomach_oesophagus_junction
+FDL_patient,testis,testis
+FDL_patient,thyroid,thyroid
+FDL_patient,uterus,endometrium_uterus
+ProCan_cell_line,adrenal gland,adrenal_gland
+ProCan_cell_line,biliary tract,biliary_tract
+ProCan_cell_line,bladder,bladder
+ProCan_cell_line,bone,bone
+ProCan_cell_line,breast,breast
+ProCan_cell_line,central nervous system,brain_cns
+ProCan_cell_line,cervix,cervix
+ProCan_cell_line,endometrium,endometrium_uterus
+ProCan_cell_line,esophagus,oesophagus_esophagus
+ProCan_cell_line,haematopoietic and lymphoid,lymphoid_haematopoietic
+ProCan_cell_line,head and neck,head_and_neck
+ProCan_cell_line,kidney,kidney
+ProCan_cell_line,large intestine,large_intestine_colorectal
+ProCan_cell_line,liver,liver
+ProCan_cell_line,lung,lung
+ProCan_cell_line,other tissue,other
+ProCan_cell_line,ovary,ovary
+ProCan_cell_line,pancreas,pancreas
+ProCan_cell_line,peripheral nervous system,peripheral_nervous_system
+ProCan_cell_line,placenta,placenta
+ProCan_cell_line,prostate,prostate
+ProCan_cell_line,skin,skin
+ProCan_cell_line,small intestine,small_intestine
+ProCan_cell_line,soft tissue,soft_tissue_smooth_muscle
+ProCan_cell_line,stomach,stomach
+ProCan_cell_line,testis,testis
+ProCan_cell_line,thyroid,thyroid
+ProCan_cell_line,vulva,vulva

@@ -1,0 +1,50 @@
+name: celligner_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  # Core Python version known to be compatible with Celligner+mnnpy
+  - python=3.9
+
+  # Compilers (important for mnnpy C++ extensions on Linux or Mac)
+  - compilers
+  - gxx_linux-64   # (Linux only, ignored on Mac)
+  - llvm-openmp    # (Mac only)
+
+  # Core scientific stack
+  - numpy=1.23.5
+  - numba=0.56.4
+  - scipy=1.8.1
+  - pandas=1.5.3
+  - cython<3       # Prevents sklearn build failures
+  - scikit-learn=1.1.3  # Wheels exist, doesn't require Cython 3
+  - matplotlib
+  - seaborn
+  - rpy2
+
+  # Common single-cell analysis ecosystem
+  - scanpy
+  - anndata
+  - leidenalg
+  - harmonypy
+  - statsmodels
+  - umap-learn=0.5.7
+  - louvain=0.8.1
+
+
+  # I/O and utilities
+  - h5py
+  - tqdm
+  - pip
+
+  # Jupyter environment (optional but typical)
+  - jupyter
+  - jupyterlab
+  - ipykernel
+
+  # Optional: R + dependencies for people using R-based workflows
+  # - r-base
+  # - r-irkernel
+

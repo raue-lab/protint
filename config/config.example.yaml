@@ -1,0 +1,11 @@
+code_dir: /path/to/this/repo/
+
+tumor_data_dir: /folder/where/tumor/data/were/downloaded/
+tumor_data_filename: Cao2025_FDL_proteomics_intensities_pan_cancer.txt   # filename as downloaded
+
+cell_line_data_dir: /folder/where/cell/line/data/were/downloaded/
+cell_line_data_filename: procan_depmapsanger.txt       # cell line protein intensities, filename as downloaded
+cell_line_metadata_filename: cell_line_info.txt        # metadata of the cell lines, filename as downloaded
+
+output_data_dir: /path/to/output/data
+output_plot_dir: /path/to/plot

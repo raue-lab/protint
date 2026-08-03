@@ -1,0 +1,49 @@
+name: protint
+
+channels:
+  - conda-forge  # Avoiding defaults due to proxy issues
+
+dependencies:
+  - python=3.11
+
+  # Jupyter
+  - jupyter
+  - nbformat
+  - nbconvert
+  - ipykernel
+
+  # General scientific Python
+  - numpy=2.1.0
+  - scipy=1.15.2
+  - pandas=2.2.3
+  - matplotlib=3.10.1
+  - seaborn=0.13.2
+  - tqdm
+  - scikit-learn=1.6.1
+  - numba=0.61.0
+  - umap-learn=0.5.7
+  - lightgbm=4.6.0
+
+  # Single-cell analysis
+  - anndata=0.11.3
+  - scanpy
+
+  # R
+  - rpy2
+  - r-base
+  - r-essentials
+
+  # Install PyTorch consistently through pip.
+  # Do not also list torch/torchvision/torchaudio above.
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - torchaudio
+
+      # Other pip-only packages
+      - jupyter_client
+      - numexpr
+      - scib
+      - pridepy
+      - gseapy

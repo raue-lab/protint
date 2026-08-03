@@ -1,0 +1,11 @@
+code_dir: /share/home/tacongqu/projects/cellLine_patient_project/
+
+tumor_data_dir: /share/home/tacongqu/projects/cellLine_patient_project/00_downloadedData/Cai2025_FDL_proteomic_patient/
+tumor_data_filename: Cao2025_FDL_proteomics_intensities_pan_cancer.txt
+
+cell_line_data_dir: /share/home/tacongqu/projects/cellLine_patient_project/00_downloadedData/procan_depmapsanger_cellLine/
+cell_line_data_filename: procan_depmapsanger.txt
+cell_line_metadata_filename: cell_line_info.txt
+
+output_data_dir: /share/home/tacongqu/projects/cellLine_patient_project/02_processedData
+output_plot_dir: /share/home/tacongqu/projects/cellLine_patient_project/notebooks/04_plots

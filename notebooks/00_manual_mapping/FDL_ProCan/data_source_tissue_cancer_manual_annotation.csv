@@ -1,0 +1,233 @@
+data_source,Tissue type,Cancer type,Cancer subtype,joint tissue type,joint Cancer type,joint Cancer subtype,matching cancer type,matching cancer subtype
+ProCan_cell_line,haematopoietic and lymphoid,b-cell non-hodgkin's lymphoma,primary effusion lymphoma,haematopoietic and lymphoid,lymphoma,B-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,plasma cell myeloma,missing,haematopoietic and lymphoid,plasma cell neoplasm,plasma cell myeloma,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,chronic eosinophilic leukemia,haematopoietic and lymphoid,leukemia,chronic eosinophilic leukemia,FALSE,FALSE
+ProCan_cell_line,lung,carcinoid tumour,lung carcinoid tumor,lung,lung neuroendocrine tumor,lung carcinoid tumor,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,acute monocytic leukemia,haematopoietic and lymphoid,leukemia,acute monocytic leukemia,FALSE,FALSE
+ProCan_cell_line,stomach,gastric carcinoma,gastric signet ring cell adenocarcinoma,stomach,stomach carcinoma,stomach adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,t-lymphoblastic leukemia,childhood t acute lymphoblastic leukemia,haematopoietic and lymphoid,leukemia,T-cell leukemia,FALSE,FALSE
+ProCan_cell_line,breast,breast carcinoma,breast adenocarcinoma,breast,breast carcinoma,breast adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,bone,ewing's sarcoma,missing,bone,sarcoma,ewing sarcoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,adult acute myeloid leukemia,haematopoietic and lymphoid,leukemia,adult acute myeloid leukemia,FALSE,FALSE
+ProCan_cell_line,ovary,ovarian carcinoma,high grade ovarian serous adenocarcinoma,ovary,ovarian carcinoma,ovarian serous adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,skin,melanoma,missing,skin,skin melanoma,skin melanoma,TRUE,TRUE
+ProCan_cell_line,head and neck,head and neck carcinoma,gingival squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,endometrium,endometrial carcinoma,endometrial adenocarcinoma,endometrium,endometrial carcinoma,endometrial adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,adrenal gland,other solid carcinomas,adrenal cortex carcinoma,adrenal gland,adrenal cortex carcinoma,adrenal cortex carcinoma,FALSE,FALSE
+ProCan_cell_line,central nervous system,glioblastoma,missing,central nervous system,glioma,glioblastoma,TRUE,TRUE
+ProCan_cell_line,breast,breast carcinoma,invasive ductal carcinoma of no special type,breast,breast carcinoma,ductal breast carcinoma,TRUE,FALSE
+ProCan_cell_line,lung,small cell lung carcinoma,missing,lung,lung neuroendocrine tumor,small cell lung carcinoma,TRUE,TRUE
+ProCan_cell_line,pancreas,pancreatic carcinoma,pancreatic ductal adenocarcinoma,pancreas,pancreatic carcinoma,pancreatic ductal adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,pancreas,pancreatic carcinoma,pancreatic adenocarcinoma,pancreas,pancreatic carcinoma,pancreatic adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,lung,mesothelioma,pleural biphasic mesothelioma,lung,lung mesothelioma,pleural biphasic mesothelioma,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,b-lymphoblastic leukemia,childhood b acute lymphoblastic leukemia,haematopoietic and lymphoid,leukemia,B-cell leukemia,FALSE,FALSE
+ProCan_cell_line,prostate,prostate carcinoma,missing,prostate,prostate carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,breast,breast carcinoma,missing,breast,breast carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,b-cell non-hodgkin's lymphoma,diffuse large b-cell lymphoma,haematopoietic and lymphoid,lymphoma,B-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,peripheral nervous system,neuroblastoma,missing,neuroectodermal,neuroectodermal tumor,neuroblastoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,b-cell non-hodgkin's lymphoma,follicular lymphoma,haematopoietic and lymphoid,lymphoma,B-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,lung,non-small cell lung carcinoma,lung large cell carcinoma,lung,lung carcinoma,lung large cell carcinoma,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,chronic myelogenous leukemia,missing,haematopoietic and lymphoid,leukemia,chronic myelogenous leukemia,FALSE,FALSE
+ProCan_cell_line,lung,non-small cell lung carcinoma,lung adenocarcinoma,lung,lung carcinoma,lung adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,other tissue,other solid carcinomas,primitive neuroectodermal tumor,neuroectodermal,neuroectodermal tumor,neuroectodermal tumor,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,b-cell non-hodgkin's lymphoma,missing,haematopoietic and lymphoid,lymphoma,B-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,burkitt's lymphoma,missing,haematopoietic and lymphoid,lymphoma,burkitt's lymphoma,TRUE,FALSE
+ProCan_cell_line,large intestine,colorectal carcinoma,cecum adenocarcinoma,large intestine,colorectal carcinoma,colorectal adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,cervix,cervical carcinoma,human papilloma virus-related cervical squamous cell carcinoma,cervix,cervical carcinoma,HPV-related squamous cell carcinoma,TRUE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,oral cavity squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,kidney,kidney carcinoma,clear cell renal cell carcinoma,kidney,kidney carcinoma,clear cell renal cell carcinoma,TRUE,TRUE
+ProCan_cell_line,liver,hepatocellular carcinoma,missing,liver,liver carcinoma,hepatocellular carcinoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,b-cell non-hodgkin's lymphoma,splenic marginal zone lymphoma,haematopoietic and lymphoid,lymphoma,B-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,t-lymphoblastic lymphoma,childhood t acute lymphoblastic lymphoma,haematopoietic and lymphoid,lymphoma,T-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,soft tissue,leiomyosarcoma,ovarian leiomyosarcoma,smooth muscle and soft tissue,sarcoma,leiomyosarcoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,non-cancerous,non-cancerous (b-lymphoblastoid),haematopoietic and lymphoid,normal haematopoietic and lymphoid - immortalized,b-lymphoblastoid,FALSE,FALSE
+ProCan_cell_line,biliary tract,biliary tract carcinoma,intrahepatic cholangiocarcinoma,biliary tract,cholangiocarcinoma,cholangiocarcinoma,TRUE,TRUE
+ProCan_cell_line,lung,mesothelioma,pleural sarcomatoid mesothelioma,lung,lung mesothelioma,pleural sarcomatoid mesothelioma,FALSE,FALSE
+ProCan_cell_line,central nervous system,other solid carcinomas,medulloblastoma,central nervous system,glioma,medulloblastoma,FALSE,FALSE
+ProCan_cell_line,central nervous system,glioma,low grade glioma,central nervous system,glioma,low grade glioma,TRUE,FALSE
+ProCan_cell_line,ovary,ovarian carcinoma,ovarian clear cell adenocarcinoma,ovary,ovarian carcinoma,ovarian clear cell adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,ovary,ovarian carcinoma,ovarian adenocarcinoma,ovary,ovarian carcinoma,ovarian adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,lung,non-small cell lung carcinoma,squamous cell lung carcinoma,lung,lung carcinoma,lung squamous cell carcinoma,TRUE,TRUE
+ProCan_cell_line,bladder,bladder carcinoma,missing,bladder,bladder carcinoma,bladder carcinoma,TRUE,TRUE
+ProCan_cell_line,esophagus,esophageal carcinoma,esophageal squamous cell carcinoma,esophagus,esophageal carcinoma,esophageal squamous cell carcinoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,hodgkin's lymphoma,missing,haematopoietic and lymphoid,lymphoma,hodgkin's lymphoma,TRUE,FALSE
+ProCan_cell_line,large intestine,colorectal carcinoma,colon adenocarcinoma,large intestine,colorectal carcinoma,colorectal adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,stomach,gastric carcinoma,missing,stomach,stomach carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,skin,melanoma,cutaneous melanoma,skin,skin melanoma,skin melanoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,other blood cancers,b-cell prolymphocytic leukemia,haematopoietic and lymphoid,leukemia,B-cell leukemia,FALSE,FALSE
+ProCan_cell_line,soft tissue,other sarcomas,liposarcoma,smooth muscle and soft tissue,sarcoma,liposarcoma,TRUE,FALSE
+ProCan_cell_line,pancreas,pancreatic carcinoma,missing,pancreas,pancreatic carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,testis,other solid carcinomas,testicular embryonal carcinoma,testis,testis carcinoma,testicular embryonal carcinoma,FALSE,FALSE
+ProCan_cell_line,stomach,gastric carcinoma,gastric tubular adenocarcinoma,stomach,stomach carcinoma,stomach adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,stomach,gastric carcinoma,gastric adenocarcinoma,stomach,stomach carcinoma,stomach adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,lung,mesothelioma,pleural epithelioid mesothelioma,lung,lung mesothelioma,pleural epithelioid mesothelioma,FALSE,FALSE
+ProCan_cell_line,ovary,ovarian carcinoma,ovarian cystadenocarcinoma,ovary,ovarian carcinoma,ovarian cystadenocarcinoma,TRUE,FALSE
+ProCan_cell_line,soft tissue,other sarcomas,synovial sarcoma,smooth muscle and soft tissue,sarcoma,synovial sarcoma,TRUE,TRUE
+ProCan_cell_line,ovary,ovarian carcinoma,ovarian serous adenocarcinoma,ovary,ovarian carcinoma,ovarian serous adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,rhabdomyosarcoma,alveolar rhabdomyosarcoma,smooth muscle and soft tissue,sarcoma,rhabdomyosarcoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,b-lymphoblastic leukemia,adult b acute lymphoblastic leukemia,haematopoietic and lymphoid,leukemia,B-cell leukemia,FALSE,FALSE
+ProCan_cell_line,kidney,kidney carcinoma,missing,kidney,kidney carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,tongue squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,ovary,other solid carcinomas,ovarian granulosa cell tumor,ovary,ovarian carcinoma,ovarian granulosa cell tumor,TRUE,FALSE
+ProCan_cell_line,lung,non-small cell lung carcinoma,missing,lung,lung carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,hereditary thyroid gland medullary carcinoma,thyroid,thyroid carcinoma,thyroid medullary carcinoma,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,t-cell non-hodgkin's lymphoma,anaplastic large cell lymphoma,haematopoietic and lymphoid,lymphoma,T-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,endometrium,endometrial carcinoma,missing,endometrium,endometrial carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,ovary,ovarian carcinoma,ovarian mucinous adenocarcinoma,ovary,ovarian carcinoma,ovarian mucinous adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,kidney,kidney carcinoma,renal pelvis and ureter urothelial carcinoma,kidney,kidney carcinoma,renal pelvis and ureter urothelial carcinoma,TRUE,FALSE
+ProCan_cell_line,vulva,vulvar carcinoma,vulvar squamous cell carcinoma,vulvar,vulvar carcinoma,vulvar squamous cell carcinoma,FALSE,FALSE
+ProCan_cell_line,lung,mesothelioma,malignant pleural mesothelioma,lung,lung mesothelioma,malignant pleural mesothelioma,FALSE,FALSE
+ProCan_cell_line,lung,non-small cell lung carcinoma,lung giant cell carcinoma,lung,lung carcinoma,lung giant cell carcinoma,TRUE,FALSE
+ProCan_cell_line,large intestine,colorectal carcinoma,missing,large intestine,colorectal carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,esophagus,esophageal carcinoma,esophageal adenocarcinoma,esophagus,esophageal carcinoma,esophageal adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,rhabdomyosarcoma,embryonal rhabdomyosarcoma,smooth muscle and soft tissue,sarcoma,rhabdomyosarcoma,TRUE,TRUE
+ProCan_cell_line,head and neck,head and neck carcinoma,head and neck squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,pancreas,pancreatic carcinoma,pancreatic adenosquamous carcinoma,pancreas,pancreatic carcinoma,pancreatic adenosquamous carcinoma,TRUE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,parotid gland mucoepidermoid carcinoma,head and neck,head and neck carcinoma,parotid gland mucoepidermoid carcinoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,hairy cell leukemia,hairy cell leukemia,haematopoietic and lymphoid,leukemia,hairy cell leukemia,FALSE,FALSE
+ProCan_cell_line,lung,other solid carcinomas,lung mucoepidermoid carcinoma,lung,lung carcinoma,lung mucoepidermoid carcinoma,TRUE,FALSE
+ProCan_cell_line,bone,osteosarcoma,missing,bone,sarcoma,osteosarcoma,TRUE,TRUE
+ProCan_cell_line,breast,breast carcinoma,ductal breast carcinoma,breast,breast carcinoma,ductal breast carcinoma,TRUE,FALSE
+ProCan_cell_line,cervix,cervical carcinoma,cervical adenocarcinoma,cervix,cervical carcinoma,cervical adenocarcinoma,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,t-lymphoblastic leukemia,adult t acute lymphoblastic leukemia,haematopoietic and lymphoid,leukemia,T-cell leukemia,FALSE,FALSE
+ProCan_cell_line,cervix,cervical carcinoma,cervical carcinoma,cervix,cervical carcinoma,cervical adenocarcinoma,FALSE,FALSE
+ProCan_cell_line,liver,hepatocellular carcinoma,hepatoblastoma,liver,liver carcinoma,hepatoblastoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,acute myelomonocytic leukemia,haematopoietic and lymphoid,leukemia,acute myelomonocytic leukemia,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,erythroleukemia,haematopoietic and lymphoid,leukemia,erythroleukemia,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,t-cell non-hodgkin's lymphoma,cutaneous t-cell lymphoma,haematopoietic and lymphoid,lymphoma,T-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,thyroid gland anaplastic carcinoma,thyroid,thyroid carcinoma,thyroid anaplastic carcinoma,TRUE,FALSE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,poorly differentiated thyroid gland carcinoma,thyroid,thyroid carcinoma,poorly differentiated thyroid gland carcinoma,TRUE,FALSE
+ProCan_cell_line,lung,non-small cell lung carcinoma,adenosquamous lung carcinoma,lung,lung carcinoma,adenosquamous lung carcinoma,TRUE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,salivary gland squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,ovary,ovarian carcinoma,ovarian endometrioid adenocarcinoma,ovary,ovarian carcinoma,ovarian endometrioid adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,other sarcomas,epithelioid sarcoma,smooth muscle and soft tissue,sarcoma,epithelioid sarcoma,TRUE,FALSE
+ProCan_cell_line,soft tissue,other sarcomas,fibrosarcoma,smooth muscle and soft tissue,sarcoma,fibrosarcoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,other sarcomas,epithelioid cell type gastrointestinal stromal tumor,smooth muscle and soft tissue,sarcoma,epithelioid cell type gastrointestinal stromal tumor,TRUE,FALSE
+ProCan_cell_line,biliary tract,biliary tract carcinoma,gallbladder carcinoma,biliary tract,bladder carcinoma,gallbladder carcinoma,TRUE,FALSE
+ProCan_cell_line,bone,chondrosarcoma,missing,bone,sarcoma,chondrosarcoma,TRUE,FALSE
+ProCan_cell_line,breast,breast carcinoma,breast squamous cell carcinoma,breast,breast carcinoma,breast squamous cell carcinoma,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,b-cell non-hodgkin's lymphoma,mantle cell lymphoma,haematopoietic and lymphoid,lymphoma,B-cell lymphoma,TRUE,FALSE
+ProCan_cell_line,soft tissue,other sarcomas,undifferentiated pleomorphic sarcoma,smooth muscle and soft tissue,sarcoma,undifferentiated pleomorphic sarcoma,TRUE,FALSE
+ProCan_cell_line,endometrium,endometrial carcinoma,endometrial adenosquamous carcinoma,endometrium,endometrial carcinoma,endometrial adenosquamous carcinoma,TRUE,FALSE
+ProCan_cell_line,ovary,other solid carcinomas,ovarian mixed germ cell tumor,ovary,ovarian carcinoma,ovarian mixed germ cell tumor,TRUE,FALSE
+ProCan_cell_line,soft tissue,other sarcomas,uterine corpus sarcoma,smooth muscle and soft tissue,sarcoma,uterine corpus sarcoma,TRUE,FALSE
+ProCan_cell_line,small intestine,other solid carcinomas,duodenal adenocarcinoma,small intestine,small intestine carcinoma,small intestine adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,head and neck,head and neck carcinoma,hypopharyngeal squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,thyroid gland follicular carcinoma,thyroid,thyroid carcinoma,thyroid follicular carcinoma,TRUE,FALSE
+ProCan_cell_line,lung,other solid carcinomas,bronchogenic carcinoma,lung,lung carcinoma,bronchogenic carcinoma,TRUE,FALSE
+ProCan_cell_line,prostate,non-cancerous,sv-40 transformed prostatic,prostate,sv-40 transformed prostatic,sv-40 transformed prostatic,FALSE,FALSE
+ProCan_cell_line,placenta,other solid carcinomas,gestational choriocarcinoma,placenta,placental carcinoma,gestational choriocarcinoma,FALSE,FALSE
+ProCan_cell_line,other tissue,other solid carcinomas,rhabdoid tumour of the kidney,other,rhabdoid tumour,rhabdoid tumor kidney,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,childhood acute myeloid leukemia with maturation,haematopoietic and lymphoid,leukemia,childhood acute myeloid leukemia with maturation,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,acute promyelocytic leukemia,haematopoietic and lymphoid,leukemia,acute promyelocytic leukemia,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,b-lymphoblastic leukemia,missing,haematopoietic and lymphoid,leukemia,B-cell leukemia,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,other blood cancers,acute biphenotypic leukemia,haematopoietic and lymphoid,leukemia,acute biphenotypic leukemia,FALSE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,floor of mouth squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,anaplastic thyroid carcinoma,thyroid,thyroid carcinoma,thyroid anaplastic carcinoma,TRUE,FALSE
+ProCan_cell_line,ovary,ovarian carcinoma,missing,ovary,ovarian carcinoma,missing,TRUE,FALSE
+ProCan_cell_line,skin,other solid carcinomas,skin squamous cell carcinoma,skin,skin carcinoma,skin squamous cell carcinoma,TRUE,TRUE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,childhood acute myeloid leukemia,haematopoietic and lymphoid,leukemia,childhood acute myeloid leukemia,FALSE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,laryngeal squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,stomach,gastric carcinoma,gastric choriocarcinoma,stomach,germ cell tumor,stomach choriocarcinoma,FALSE,FALSE
+ProCan_cell_line,vulva,vulvar carcinoma,vulvar carcinoma,vulvar,vulvar carcinoma,vulvar carcinoma,FALSE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,pyriform fossa squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,cervix,cervical carcinoma,cervical squamous cell carcinoma,cervix,cervical carcinoma,cervical squamous cell carcinoma,FALSE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,other blood cancers,natural killer cell lymphoblastic leukemia or lymphoma,haematopoietic and lymphoid,,NK cell leukemia-lymphoma,FALSE,FALSE
+ProCan_cell_line,large intestine,colorectal carcinoma,rectal adenocarcinoma,large intestine,colorectal carcinoma,colorectal adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,skin,melanoma,vulvar melanoma,vulvar,vulvar melanoma,vulvar melanoma,FALSE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,oral dysplasia,head and neck,normal head and neck,oral dysplasia,TRUE,TRUE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,thyroid gland squamous cell carcinoma,thyroid,thyroid carcinoma,thyroid squamous carcinoma,TRUE,FALSE
+ProCan_cell_line,esophagus,esophageal carcinoma,barrett adenocarcinoma,esophagus,esophageal carcinoma,barrett adenocarcinoma,TRUE,FALSE
+ProCan_cell_line,kidney,kidney carcinoma,papillary renal cell carcinoma,kidney,kidney carcinoma,papillary renal cell carcinoma,TRUE,TRUE
+ProCan_cell_line,skin,melanoma,mucosal melanoma,skin,skin melanoma,mucosal melanoma,TRUE,FALSE
+ProCan_cell_line,pancreas,other solid carcinomas,pancreatic somatostatinoma,pancreas,pancreatic carcinoma,pancreatic somatostatinoma,TRUE,FALSE
+ProCan_cell_line,haematopoietic and lymphoid,acute myeloid leukemia,adult acute monocytic leukemia,haematopoietic and lymphoid,leukemia,adult acute monocytic leukemia,FALSE,FALSE
+ProCan_cell_line,thyroid,thyroid gland carcinoma,thyroid gland papillary carcinoma,thyroid,thyroid carcinoma,thyroid papillary carcinoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,leiomyosarcoma,uterine corpus leiomyosarcoma,smooth muscle and soft tissue,sarcoma,leiomyosarcoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,other sarcomas,endometrial stromal sarcoma,smooth muscle and soft tissue,sarcoma,endometrial stromal sarcoma,TRUE,FALSE
+ProCan_cell_line,soft tissue,leiomyosarcoma,vulvar leiomyosarcoma,smooth muscle and soft tissue,sarcoma,leiomyosarcoma,TRUE,TRUE
+ProCan_cell_line,bladder,bladder carcinoma,urothelial carcinoma,bladder,bladder carcinoma,bladder carcinoma,TRUE,TRUE
+ProCan_cell_line,soft tissue,rhabdomyosarcoma,missing,smooth muscle and soft tissue,sarcoma,rhabdomyosarcoma,TRUE,TRUE
+ProCan_cell_line,breast,breast carcinoma,invasive lobular breast carcinoma,breast,breast carcinoma,invasive lobular breast carcinoma,TRUE,FALSE
+ProCan_cell_line,stomach,gastric carcinoma,gastric small cell carcinoma,stomach,stomach carcinoma,stomach small cell neuroendocrine carcinoma,TRUE,FALSE
+ProCan_cell_line,stomach,gastric carcinoma,gastic small cell neuroendocrine carcinoma,stomach,stomach carcinoma,stomach small cell neuroendocrine carcinoma,TRUE,FALSE
+ProCan_cell_line,skin,other solid carcinomas,vulvar squamous cell carcinoma,vulvar,vulvar carcinoma,vulvar squamous cell carcinoma,FALSE,FALSE
+ProCan_cell_line,head and neck,head and neck carcinoma,pharyngeal squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,stomach,gastric carcinoma,gastric fundus carcinoma,stomach,stomach carcinoma,stomach adenocarcinoma,TRUE,TRUE
+ProCan_cell_line,head and neck,head and neck carcinoma,tonsillar squamous cell carcinoma,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+ProCan_cell_line,central nervous system,glioma,oligodendroglioma,central nervous system,glioma,oligodendroglioma,TRUE,FALSE
+ProCan_cell_line,lung,other solid carcinomas,lung carcinoma,lung,lung carcinoma,missing,FALSE,FALSE
+ProCan_cell_line,other tissue,other solid carcinomas,sacral chordoma,notochordal,notochordal tumor,sacral chordoma,FALSE,FALSE
+ProCan_cell_line,lung,uncertain,missing,lung,missing,missing,FALSE,FALSE
+ProCan_cell_line,prostate,prostate carcinoma,prostate small cell carcinoma,prostate,carcinoma,prostate small cell carcinoma,TRUE,FALSE
+FDL_patient,adipose tissue,normal,normal adipose tissue,adipose tissue,normal adipose tissue,normal adipose tissue,FALSE,FALSE
+FDL_patient,adipose tissue,sarcoma,liposarcoma,adipose tissue,sarcoma,liposarcoma,FALSE,FALSE
+FDL_patient,bladder,transitional cell carcinoma,transitional cell bladder,bladder,bladder carcinoma,bladder carcinoma,TRUE,TRUE
+FDL_patient,bladder,normal,normal bladder,bladder,normal bladder,normal bladder,FALSE,FALSE
+FDL_patient,bone,sarcoma,osteosarcoma,bone,sarcoma,osteosarcoma,TRUE,TRUE
+FDL_patient,bone,normal,normal bone,bone,normal bone,normal bone,FALSE,FALSE
+FDL_patient,bone,sarcoma,ewing sarcoma,bone,sarcoma,ewing sarcoma,TRUE,TRUE
+FDL_patient,brain,glioblastoma,glioblastoma,central nervous system,glioma,glioblastoma,TRUE,TRUE
+FDL_patient,breast,normal,normal breast,breast,normal breast,normal breast,FALSE,FALSE
+FDL_patient,breast,adenocarcinoma,breast carcinoma,breast,breast carcinoma,breast adenocarcinoma,TRUE,TRUE
+FDL_patient,cholangiocarcinoma,normal,normal liver,biliary tract,normal liver,normal liver,FALSE,FALSE
+FDL_patient,cholangiocarcinoma,adenocarcinoma,cholangiocarcinoma,biliary tract,cholangiocarcinoma,cholangiocarcinoma,TRUE,TRUE
+FDL_patient,colorectal,normal,normal colon,large intestine,normal colon,normal colon,FALSE,FALSE
+FDL_patient,colorectal,adenocarcinoma,colorectal adenocarcinoma,large intestine,colorectal carcinoma,colorectal adenocarcinoma,TRUE,TRUE
+FDL_patient,endometrial,adenocarcinoma,endometrial adenocarcinoma,endometrium,endometrial carcinoma,endometrial adenocarcinoma,TRUE,TRUE
+FDL_patient,gallbladder,normal,normal liver,biliary tract,normal liver,normal liver,FALSE,FALSE
+FDL_patient,head and neck,normal,normal head and neck,head and neck,normal head and neck,normal head and neck,TRUE,FALSE
+FDL_patient,head and neck,squamous,head and neck squamous,head and neck,head and neck carcinoma,head and neck squamous carcinoma,TRUE,TRUE
+FDL_patient,kidney,wilm's tumour,wilm's tumour,kidney,wilm's tumour,wilm's tumour,FALSE,FALSE
+FDL_patient,kidney,renal cell carcinoma,clear cell renal cell carcinoma,kidney,renal cell carcinoma,clear cell renal cell carcinoma,TRUE,TRUE
+FDL_patient,kidney,renal cell carcinoma,papillary renal cell carcinoma,kidney,renal cell carcinoma,papillary renal cell carcinoma,TRUE,TRUE
+FDL_patient,kidney,normal,normal kidney,kidney,normal kidney,normal kidney,FALSE,FALSE
+FDL_patient,liver,normal,normal liver,liver,normal liver,normal liver,FALSE,FALSE
+FDL_patient,liver,normal,normal bladder,liver,normal bladder,normal bladder,FALSE,FALSE
+FDL_patient,liver,adenocarcinoma,hepatocellular carcinoma,liver,liver carcinoma,hepatocellular carcinoma,TRUE,TRUE
+FDL_patient,liver,hepatoblastoma,hepatoblastoma,liver,hepatoblastoma,hepatoblastoma,TRUE,TRUE
+FDL_patient,lung,neuroendocrine,small cell lung cancer,lung,neuroendocrine,small cell lung carcinoma,TRUE,TRUE
+FDL_patient,lung,normal,normal lung,lung,normal lung,normal lung,FALSE,FALSE
+FDL_patient,lung,squamous,non small cell lung squamous,lung,lung carcinoma,lung squamous cell carcinoma,TRUE,TRUE
+FDL_patient,lung,adenocarcinoma,non small cell lung adeno,lung,lung carcinoma,lung adenocarcinoma,TRUE,TRUE
+FDL_patient,lymph node,normal,normal lymph node,haematopoietic and lymphoid,normal haematopoietic and lymphoid,normal lymph node,TRUE,FALSE
+FDL_patient,lymphoma,lymphoma,lymphoma,haematopoietic and lymphoid,lymphoma,missing,TRUE,FALSE
+FDL_patient,oesophagus,adenocarcinoma,oesophagus adenocarcinoma,esophagus,esophageal carcinoma,esophageal adenocarcinoma,TRUE,TRUE
+FDL_patient,oesophagus,squamous,oesophageal squamous,esophagus,esophageal carcinoma,esophageal squamous cell carcinoma,TRUE,TRUE
+FDL_patient,oesophagus,normal,normal oesophagus,esophagus,normal esophagus,normal esophagus,FALSE,FALSE
+FDL_patient,other,retinoblastoma,retinoblastoma,neuroectodermal,neuroectodermal tumor,retinoblastoma,TRUE,FALSE
+FDL_patient,other,neuroblastoma,neuroblastoma,neuroectodermal,neuroectodermal tumor,neuroblastoma,TRUE,TRUE
+FDL_patient,other,ganglioneuroblastoma,ganglioneuroblastoma,neuroectodermal,neuroectodermal tumor,ganglioneuroblastoma,TRUE,FALSE
+FDL_patient,ovary,carcinoma,small cell carcinoma ovary,ovary,ovarian carcinoma,ovarian small cell carcinoma,TRUE,FALSE
+FDL_patient,ovary,adenocarcinoma,mucinous ovary,ovary,adenocarcinoma,mucinous ovarian adenocarcinoma,TRUE,TRUE
+FDL_patient,ovary,carcinoma,mixed mullerian ovary,ovary,ovarian carcinoma,ovarian mixed mullerian carcinoma,TRUE,FALSE
+FDL_patient,ovary,adenocarcinoma,low grade serous ovary,ovary,ovarian carcinoma,ovarian serous adenocarcinoma,TRUE,TRUE
+FDL_patient,ovary,adenocarcinoma,high grade serous ovary,ovary,ovarian carcinoma,ovarian serous adenocarcinoma,TRUE,TRUE
+FDL_patient,ovary,adenocarcinoma,endometrioid ovary,ovary,ovarian carcinoma,ovarian endometrioid adenocarcinoma,TRUE,TRUE
+FDL_patient,ovary,adenocarcinoma,clear cell ovary,ovary,ovarian carcinoma,ovarian clear cell adenocarcinoma,TRUE,TRUE
+FDL_patient,pancreas,adenocarcinoma,pancreatic ductal adenocarcinoma,pancreas,pancreatic carcinoma,pancreatic ductal adenocarcinoma,TRUE,TRUE
+FDL_patient,pancreas,neuroendocrine,pancreas neuroendocrine,pancreas,pancreatic neuroendocrine,pancreatic neuroendocrine,FALSE,FALSE
+FDL_patient,pancreas,normal,normal pancreas,pancreas,normal pancreas,normal pancreas,FALSE,FALSE
+FDL_patient,prostate,adenocarcinoma,prostate adenocarcinoma,prostate,prostate carcinoma,prostate adenocarcinoma,TRUE,FALSE
+FDL_patient,prostate,normal,normal prostate,prostate,normal prostate,normal prostate,FALSE,FALSE
+FDL_patient,skin,normal,normal skin,skin,normal skin,normal skin,FALSE,FALSE
+FDL_patient,skin,squamous,cutaneous squamous cell carcinoma,skin,skin carcinoma,skin squamous cell carcinoma,TRUE,TRUE
+FDL_patient,skin,melanoma,cutaneous melanoma,skin,skin melanoma,skin melanoma,TRUE,TRUE
+FDL_patient,skin,basal cell carcinoma,basal cell skin carcinoma,skin,skin carcinoma,basal cell skin carcinoma,FALSE,FALSE
+FDL_patient,small intestine,adenocarcinoma,small intestine adenocarcinoma,small intestine,adenocarcinoma,small intestine adenocarcinoma,TRUE,TRUE
+FDL_patient,small intestine,normal,normal small intestine,small intestine,normal small intestine,normal small intestine,FALSE,FALSE
+FDL_patient,smooth muscle,normal,normal smooth muscle,smooth muscle and soft tissue,normal smooth muscle and soft tissue,normal smooth muscle and soft tissue,FALSE,FALSE
+FDL_patient,smooth muscle,sarcoma,leiomyosarcoma,smooth muscle and soft tissue,sarcoma,leiomyosarcoma,TRUE,TRUE
+FDL_patient,soft tissue nos,sarcoma,synovial sarcoma,smooth muscle and soft tissue,sarcoma,synovial sarcoma,TRUE,TRUE
+FDL_patient,soft tissue nos,sarcoma,rhabdomyosarcoma,smooth muscle and soft tissue,sarcoma,rhabdomyosarcoma,TRUE,TRUE
+FDL_patient,other,rhabdoid tumour,rhabdoid tumour,other,rhabdoid tumour,missing,TRUE,FALSE
+FDL_patient,soft tissue nos,normal,normal soft tissue nos,smooth muscle and soft tissue,normal smooth muscle and soft tissue,normal smooth muscle and soft tissue,FALSE,FALSE
+FDL_patient,soft tissue nos,sarcoma,fibrosarcoma,smooth muscle and soft tissue,sarcoma,fibrosarcoma,TRUE,TRUE
+FDL_patient,stomach,adenocarcinoma,stomach adenocarcinoma,stomach,stomach carcinoma,stomach adenocarcinoma,TRUE,TRUE
+FDL_patient,stomach,normal,normal stomach,stomach,normal stomach,normal stomach,FALSE,FALSE
+FDL_patient,stomach/oesophagus,normal,normal oesophagus,stomach-esophagus,normal esophagus,normal esophagus,FALSE,FALSE
+FDL_patient,testis,normal,normal testis,testis,normal testis,normal testis,FALSE,FALSE
+FDL_patient,testis,germ cell ,germ cell testis,testis,normal germ cell testis,normal germ cell testis,FALSE,FALSE
+FDL_patient,thyroid,thyroid papillary,thyroid papillary,thyroid,thyroid carcinoma,thyroid papillary carcinoma,TRUE,TRUE
+FDL_patient,thyroid,normal,normal thyroid,thyroid,normal thyroid,normal thyroid,FALSE,FALSE
+FDL_patient,uterus,normal,normal uterus,uterus,normal uterus,normal uterus,FALSE,FALSE
