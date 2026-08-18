@@ -122,6 +122,24 @@ The datasets being used are:
 ### Performing the analyses and generate the figures
 Please refer to the folder `notebooks` in this repo, which contained the Jupyter notebooks for processing the data and running the analyses. Further documentation for the notebooks can be found in this folder.
 
+## Citation
+If you use ProtInt in your work, please consider citing our work:
+
+Ta, C. Q., Auth, J. M., Schilling, M., Klingmueller, U., & Raue, A. (2026). Integration of proteomic data from cell lines and tumors. https://doi.org/10.64898/2026.08.11.743858
+```
+@article {Ta2026.08.11.743858,
+	author = {Ta, Cong Quan and Auth, Johannes M and Schilling, Marcel and Klingmueller, Ursula and Raue, Andreas},
+	title = {Integration of proteomic data from cell lines and tumors},
+	elocation-id = {2026.08.11.743858},
+	year = {2026},
+	doi = {10.64898/2026.08.11.743858},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2026/08/17/2026.08.11.743858},
+	eprint = {https://www.biorxiv.org/content/early/2026/08/17/2026.08.11.743858.full.pdf},
+	journal = {bioRxiv}
+}
+```
+
 ## License
 This project is licensed under the terms of MIT License.
 Copyright 2026 Andreas Raue.
