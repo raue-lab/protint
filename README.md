@@ -145,6 +145,11 @@ This project is licensed under the terms of MIT License.
 Copyright 2026 Andreas Raue.
 
 ## Reference
+
+Cai, Z., Boys, E. L., Noor, Z., Aref, A. T., Xavier, D., Lucas, N., Williams, S. G., Koh, J. M. S., Poulos, R. C., Wu, Y., Dausmann, M., MacKenzie, K. L., Aguilar-Mahecha, A., Armengol, C., Barranco, M. M., Basik, M., Bowman, E. D., Clifton-Bligh, R., Connolly, E. A., Cooper, W. A., … Reddel, R. R. (2025). Federated Deep Learning Enables Cancer Subtyping by Proteomics. Cancer discovery, 15(9), 1803–1818. https://doi.org/10.1158/2159-8290.CD-24-1488
+
+Gonçalves, E., Poulos, R. C., Cai, Z., Barthorpe, S., Manda, S. S., Lucas, N., Beck, A., Bucio-Noble, D., Dausmann, M., Hall, C., Hecker, M., Koh, J., Lightfoot, H., Mahboob, S., Mali, I., Morris, J., Richardson, L., Seneviratne, A. J., Shepherd, R., Sykes, E., … Reddel, R. R. (2022). Pan-cancer proteomic map of 949 human cell lines. Cancer cell, 40(8), 835–849.e8. https://doi.org/10.1016/j.ccell.2022.06.010
+
 Slavica Dimitrieva et al. ,Biologically relevant integration of transcriptomics profiles from cancer cell lines, patient-derived xenografts, and clinical tumors using deep learning.Sci. Adv.11,eadn5596(2025).DOI:10.1126/sciadv.adn5596
 
 He, J., Helm, B., Gödtel, F. et al. msBayesImpute as a versatile framework for addressing missing values in biomedical mass spectrometry proteomics data. Commun Chem 9, 236 (2026). https://doi.org/10.1038/s42004-026-02106-3
